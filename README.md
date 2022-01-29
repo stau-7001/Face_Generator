@@ -40,7 +40,7 @@ Just follow the steps on the [official website](https://pytorch.org/) to install
 Place the video files in the video folder and write the names of the videos to be processed in the `List_of_testing_videos.txt` file.
 
 ```makefile
-python fuce_cut.py -r 512 -t 500 -m 0 -i 5 -s 60 # -b 10
+python face_cut.py -r 512 -t 500 -m 0 -i 5 -s 60 # -b 10
 ```
 
 `-r` ：Resolution of the captured face
