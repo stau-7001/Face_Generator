@@ -57,5 +57,5 @@ python face_cut.py -r 512 -t 500 -m 0 -i 5 -s 60 # -b 10
 
 The two parameters Max_int = 40 and Min_int = 5 in the file refer to the maximum and minimum values of the dynamic acquisition interval. Increasing Min_int and Max_int decreases the number of face acquisitions and increases the difference between face images. 
 
-### 2 ACK
+### 3 ACK
 [void_zxh](https://github.com/void-zxh)
